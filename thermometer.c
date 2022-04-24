@@ -1,7 +1,7 @@
 
 int d[] = {44,45,46,2};   // 세그먼트 자릿수
 int segment_pin[] = {3,4,5,6,7,8,9,10};   // 세그먼트 A~G, dp
-int temp_in = 54;   // 온도 핀
+int temp_in = 54;  // 온도 핀
 //RGB 핀
 int RED = 13;
 int GREEN = 12;
